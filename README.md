@@ -1,4 +1,4 @@
-# 🧠 Customer Churn Pro
+# Customer Churn Pro
 
 An end-to-end **Customer Churn Prediction System** that predicts whether a customer is likely to leave a service and provides a **beautiful, emoji-driven Streamlit UI** to display results.  
 The project demonstrates **data science, machine learning, and deployment** skills together in one production-style repo.
